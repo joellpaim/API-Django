@@ -1,0 +1,6 @@
+git init
+git add .
+git remote add origin your_url
+git branch -M 'master'
+git commit -m "first commit"
+git push -u origin 'master'
